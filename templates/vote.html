@@ -1,0 +1,21 @@
+<!--
+  This template loads for the 'tab.adopt' state (app.js)
+-->
+<view title="'Vote best player of the game'">
+  <content has-header="true" has-tabs="true">
+    <div>
+        <label class="item item-input">
+            <input type="text" placeholder="Search player" ng-model="searchPlayer"/>
+          </label>
+      </div>
+    <div class="list">
+      <label class="item item-radio" ng-repeat="player in players | filter: searchPlayer" type="item-text-wrap" href="#/tab/player/{{player.number}}">
+        <input type="radio" name="group">
+        <div class="item-content">
+            {{player.name}}
+        </div>
+        <i class="radio-icon ion-checkmark"></i>
+      </label>
+    </div>
+  </content>
+</view>

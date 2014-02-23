@@ -1,0 +1,92 @@
+[
+    {
+        "name":"Grant Wruble",
+        "pos":"C",
+        "number":2,
+        "dob": "October 15, 1993",
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362186.jpeg",
+        "award": "2013 ACC Academic Honor Roll",
+        "story": "Full name is Grant Timothy Wruble ... Born Oct. 15, 1993 in Cincinnati, Ohio ... Son of Tim and Roxann Wruble... Has one younger sister, Claire Wruble... Chose Georgia Tech because of Georgia Tech's prestigious degree, always wanted to play in the ACC, and is a lifelong Georgia Tech fan... Majoring in business administration."
+    },
+    {
+        "name":"Mott Hyde",
+        "pos":"SS/2B",
+        "number":3,
+        "dob": "March 10, 1992",
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362109.jpeg",
+        "award":"2013 Nashville Regional All-Tournament Team",
+        "story":"Full name is Daniel Mott Hyde... Born Mar. 10, 1992 in Saudi Arabia... Son of Lamar and Esmi Hyde... Enjoys juggling... Has an older brother who goes by J.B. (John Barry)... Father Lamar started one of the first carpet companies in Saudi Arabia... Majoring in management."
+    },
+    {
+        "name":"Zac Ryan",
+        "pos":"RHP/IF",
+        "number":4,
+        "dob":"May 28, 1994",
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362165.jpeg",
+        "award":"",
+        "story":"Full name is Zachary Alexander Ryan.... Born May 28, 1994 in Merrillville, Ind. ... Son of Henry and Jill Ryan ... Has an older sister, Kelly... Starting playing baseball age five... Intends to major in biomedical engineering to lead to a future profession building prosthetic for amputees."
+    },
+    {
+        "name":"Keenan Innis",
+        "pos":"OF/RHP",
+        "number":5,
+        "dob": "August 3, 1994",
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362114.jpeg"
+    },
+    {
+        "name":"Ryan Peurifoy",
+        "pos":"OF",
+        "number":6,
+        "dob": "March 26, 1995",
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362151.jpeg"
+    },
+    {
+        "name":"Arden Pabst",
+        "pos":"C/IF",
+        "number":7,
+        "dob": "March 14, 1995",
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362145.jpeg"
+    },
+    {
+        "name":"Syd Hopkins",
+        "pos":"RHP",
+        "number":8,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362105.jpeg"
+    },
+    {
+        "name":"A.J. Murray",
+        "pos":"1B",
+        "number":9,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362137.jpeg"
+    },
+    {
+        "name":"Brandon Gold",
+        "pos":"3B/RHP",
+        "number":10,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9361792.jpeg"
+    },
+    {
+        "name":"Sam Clay",
+        "pos":"LHP",
+        "number":11,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9361765.jpeg"
+    },
+    {
+        "name":"Thomas Smith",
+        "pos":"2B/SS",
+        "number":13,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362170.jpeg"
+    },
+    {
+        "name":"Matt Gonzalez",
+        "pos":"SS/3B",
+        "number":14,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9361796.jpeg"
+    },
+    {
+        "name":"Connor Justus",
+        "pos":"IF",
+        "number":15,
+        "image":"http://grfx.cstv.com/photos/schools/geot/sports/m-basebl/auto_headshot/9362126.jpeg"
+    }
+]
