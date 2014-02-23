@@ -44,7 +44,7 @@
       <file leaf-file-name="player-detail.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/player-detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="28" selection-start="530" selection-end="530" vertical-scroll-proportion="0.24665178" vertical-offset="0" max-vertical-offset="896">
+            <state line="22" column="32" selection-start="798" selection-end="798" vertical-scroll-proportion="0.4174107" vertical-offset="0" max-vertical-offset="896">
               <folding />
             </state>
           </provider>
@@ -549,7 +549,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/player-detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="28" selection-start="530" selection-end="530" vertical-scroll-proportion="0.24665178" vertical-offset="0" max-vertical-offset="896">
+        <state line="22" column="32" selection-start="798" selection-end="798" vertical-scroll-proportion="0.4174107" vertical-offset="0" max-vertical-offset="896">
           <folding />
         </state>
       </provider>
