@@ -11,25 +11,25 @@
           <div class="item item-avatar">
               <img src="{{player.image}}">
               <h2>{{player.name}}</h2>
-              <p>{{player.dob}}</p>
+              <div>{{player.dob}}</div>
           </div>
-	  <div class="item item-divider">
-              Position    
+          <div class="item item-divider" ng-show="player.pos">
+              Position
           </div>
-          <div class="item item-text-wrap">
+          <div class="item item-text-wrap" ng-show="player.pos">
               {{player.pos}}
           </div>
-  
+
           <div class="item item-divider" ng-show="player.award">
             Award
           </div>
-          <div class="item item-text-wrap">
+          <div class="item item-text-wrap" ng-show="player.award">
               {{player.award}}
           </div>
-          <div class="item item-divider">
-              Personal story    
+          <div class="item item-divider" ng-show="player.personal">
+              Personal story
           </div>
-          <div class="item item-text-wrap">
+          <div class="item item-text-wrap" ng-show="player.personal">
               {{player.personal}}
           </div>
 
