@@ -13,7 +13,14 @@
               <h2>{{player.name}}</h2>
               <p>{{player.dob}}</p>
           </div>
-          <div class="item item-divider">
+	  <div class="item item-divider">
+              Position    
+          </div>
+          <div class="item item-text-wrap">
+              {{player.pos}}
+          </div>
+  
+          <div class="item item-divider" ng-show="player.award">
             Award
           </div>
           <div class="item item-text-wrap">
@@ -23,8 +30,9 @@
               Personal story    
           </div>
           <div class="item item-text-wrap">
-              {{player.story}}
+              {{player.personal}}
           </div>
+
       </div>
   </content>
 </view>
